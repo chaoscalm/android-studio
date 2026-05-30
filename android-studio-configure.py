@@ -287,7 +287,7 @@ if __name__ == "__main__":
         choices=[
             'clean',
             # Ubuntu releases
-            'jammy', 'noble', 'plucky', 'questing',
+            'jammy', 'noble', 'resolute', 'stonking',
             # Debian releases
             'bullseye', 'bookworm', 'trixie'
         ],

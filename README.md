@@ -29,7 +29,7 @@ Download pre-built packages from our [PPA](https://launchpad.net/~maarten-fonvil
 
 2. Run configure with the parameters for the package you want to build:
    ```bash
-   ./android-studio-configure.py (jammy|noble|plucky|questing|bullseye|bookworm|trixie) [--stable] [--metapackage] [--major 3.6]
+   ./android-studio-configure.py (jammy|noble|questing|resolute|bullseye|bookworm|trixie) [--stable] [--metapackage] [--major 3.6]
    ```
    E.g. to build the latest stable version of Android Studio for Ubuntu noble:
    ```bash
